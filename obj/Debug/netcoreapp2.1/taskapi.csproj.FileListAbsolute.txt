@@ -1,0 +1,14 @@
+C:\Users\Zeeshan\Desktop\taskapi\taskapi\bin\Debug\netcoreapp2.1\taskapi.deps.json
+C:\Users\Zeeshan\Desktop\taskapi\taskapi\bin\Debug\netcoreapp2.1\taskapi.runtimeconfig.json
+C:\Users\Zeeshan\Desktop\taskapi\taskapi\bin\Debug\netcoreapp2.1\taskapi.runtimeconfig.dev.json
+C:\Users\Zeeshan\Desktop\taskapi\taskapi\bin\Debug\netcoreapp2.1\taskapi.dll
+C:\Users\Zeeshan\Desktop\taskapi\taskapi\bin\Debug\netcoreapp2.1\taskapi.pdb
+C:\Users\Zeeshan\Desktop\taskapi\taskapi\obj\Debug\netcoreapp2.1\taskapi.csprojAssemblyReference.cache
+C:\Users\Zeeshan\Desktop\taskapi\taskapi\obj\Debug\netcoreapp2.1\taskapi.csproj.CoreCompileInputs.cache
+C:\Users\Zeeshan\Desktop\taskapi\taskapi\obj\Debug\netcoreapp2.1\taskapi.RazorAssemblyInfo.cache
+C:\Users\Zeeshan\Desktop\taskapi\taskapi\obj\Debug\netcoreapp2.1\taskapi.RazorAssemblyInfo.cs
+C:\Users\Zeeshan\Desktop\taskapi\taskapi\obj\Debug\netcoreapp2.1\taskapi.AssemblyInfoInputs.cache
+C:\Users\Zeeshan\Desktop\taskapi\taskapi\obj\Debug\netcoreapp2.1\taskapi.AssemblyInfo.cs
+C:\Users\Zeeshan\Desktop\taskapi\taskapi\obj\Debug\netcoreapp2.1\taskapi.RazorTargetAssemblyInfo.cache
+C:\Users\Zeeshan\Desktop\taskapi\taskapi\obj\Debug\netcoreapp2.1\taskapi.dll
+C:\Users\Zeeshan\Desktop\taskapi\taskapi\obj\Debug\netcoreapp2.1\taskapi.pdb
